@@ -1,0 +1,37 @@
+#hit {
+	 -fx-pref-width: 80px; 
+	-fx-font-size: 12px;
+    -fx-text-fill: white;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#61a2b1, #2A5058);
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}
+
+
+#conclusion {
+   -fx-font-size: 25px;
+   -fx-font-family: "Arial Black";
+   -fx-fill: DarkCyan;
+   -fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 );
+}
+
+
+#lost {
+   -fx-font-size: 16px;
+   -fx-font-family: "Arial Black";
+   -fx-fill: firebrick;
+   -fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 );
+}
+
+
+#won {
+   -fx-font-size: 16px;
+   -fx-font-family: "Arial Black";
+   -fx-fill: DarkCyan;
+   -fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 );
+}
+
+
+
+
