@@ -21,3 +21,4 @@ If everything worked fine you should see something like this:
 
 > For further details on the game see instructions.md
 
+
