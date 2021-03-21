@@ -17,7 +17,7 @@
 *  You can view points,accuracy and your last 5 shots for both your team and the computer's.
 *  Smart Battleship Computer AI where computer : 
 *  * hits nearby cells after first successful hit on a ship.
-*  * After hitting a second one he knows the ship's direction and hits accordingly.
+*  * After hitting a second one  knows the ship's direction and hits accordingly.
 *  * While hitting in a direction computer remove's adjacent cells from future search space because he knows 2 ships must refrain at least 1 cell.
 
 
