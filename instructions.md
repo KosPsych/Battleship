@@ -23,6 +23,6 @@
 
 
 ### NOTE
-> Further expansion would be to create Easy computer AI logic(suppose the above is hard) where the computer would move based on first one or first 2 of the above bullets.The user should be able to choose between these 2 modes.
+> Further expansion would be to create Easy computer AI logic(suppose the above is hard) where the computer would move based on first one or first 2 of the above sub-bullets.The user should be able to choose between these 2 modes.
 
  
