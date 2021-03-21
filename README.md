@@ -17,5 +17,7 @@ You can create more initialization boards and add them to PlayerFiles.
 
 If everything worked fine you should see something like this:
 
-![2021-02-15-17-44-20.png](https://i.postimg.cc/ZKXqkmbc/2021-02-15-17-44-20.png)]
+![2021-02-15-17-44-20.png](https://i.postimg.cc/ZKXqkmbc/2021-02-15-17-44-20.png)
+
+> For further details on the game see instructions.md
 
