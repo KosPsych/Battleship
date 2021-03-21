@@ -12,7 +12,8 @@
 * First to move is chosen randomly.
 
 # Features:
-*  You can view your hits on enemy board as well as your boaed with enemy hits
+* You can create new txt initialization files and put the inside PlayerFiles or EnemyFiles.
+*  You can view your hits on enemy board as well as your board with enemy hits
 *  You can view points,accuracy and your last 5 shots for both your team and the computer's.
 *  Smart Battleship Computer AI where computer : 
 *  * hits nearby cells after first successful hit on a ship.
