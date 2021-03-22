@@ -18,7 +18,7 @@
 *  Smart Battleship Computer AI where computer : 
 *  * hits nearby cells after first successful hit on a ship.
 *  * After hitting a second one  knows the ship's direction and hits accordingly.
-*  * While hitting in a direction computer remove's adjacent cells from future search space because he knows 2 ships must refrain at least 1 cell.
+*  * While hitting in a direction computer removes adjacent cells from future search space because he knows 2 ships must refrain at least 1 cell.
 
 
 
